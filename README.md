@@ -3,9 +3,6 @@
 This is a pure [Julia](https://julialang.org) package for estimating discrete choice/random utility models. The models supported so far are:
 
 - Multinomial logit
-
-Support is planned for:
-
 - Nested logit
 - Mixed logit
 
